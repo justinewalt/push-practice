@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => (
   <p>
-    To get started, edit <code>src/App.js</code> and save to reload.
+    Node is pushing to Heroku
   </p>
 );
 
